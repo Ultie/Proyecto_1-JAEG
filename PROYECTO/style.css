@@ -1,0 +1,127 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+html,body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+header{
+    width: 100%;
+    background-color: black;
+    background-size: cover;
+    background-attachment: fixed;
+}
+header ul li{
+    float: right;
+    list-style-type: none;
+    color: white;
+    margin-left: 50px;
+    margin-right: 20px;
+}
+header ul li a:hover{
+    color: blue;
+}
+header ul li a{
+    text-decoration: none;
+    color: white;
+}
+.encabezado #letra1{
+    color: white;
+    float: left;
+}
+.encabezado #parrafo1{
+    color: white;
+}
+.cuadro1 #uno{
+    float: left;
+}
+.cuadro1 #dos{
+    float: right;
+}
+.cuadro2 #tres{
+    float: left;
+}
+.cuadro2 #cuatro{
+    float: right;
+}
+.parte2 #cinco{
+    margin-left: 100px; 
+    float: left;
+}
+.parte2 #seis{
+    margin-left: 100px; 
+    float: left;
+}
+.parte2 #siete{
+    margin-left: 150px; 
+    float: left;
+}
+.parte2 #ocho{
+    margin-left: 200px; 
+    float: left;
+}
+.cuadro3 #nueve{
+    margin-left: 200px;
+    float: left;
+}
+.cuadro3 #diez{
+    margin-right: 200px;
+    float: right;
+}
+.cuadro4 #once{
+    margin-left: 200px;
+    float: left;
+}
+.cuadro4 #doce{
+    margin-right: 200px;
+    float: right;
+}
+.mapa{
+    background-color: black;
+}
+.mapa #catorce{
+    color: white;
+}
+.final{
+    background-color: white;
+}
+.final #negro{
+    float: left;
+}
+.final #blanco{
+    float: right;
+}
+.final #correo{
+    float: left;
+}
+.final #email{
+    float: right;
+}
+.pie{
+    background-color: black;
+}
+.pie #casilla{
+    float: left;
+}
+.pie #enviar{
+    float: right;
+}
+.pie #quince{
+    margin-left: 100px; 
+    float: left;
+}
+.pie #dieciseis{
+    margin-left: 100px; 
+    float: left;
+}
+.pie #diecisiete{
+    margin-left: 100px; 
+    float: left;
+}
+.pie #dieciocho{
+    margin-left: 100px; 
+    float: left;
+}
